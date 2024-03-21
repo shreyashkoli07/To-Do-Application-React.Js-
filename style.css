@@ -1,0 +1,30 @@
+.todo{
+    text-align: center;
+}
+input{
+    background-color: rgb(243, 233, 233);
+    border: 1px solid black;
+    outline: 0;
+    padding: 10px 20px ;
+
+}
+.btn1{
+    outline: 0;
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+}
+.btn2{
+    outline: 0;
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+}
+form{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.todo h1{
+    color: rgb(75, 75, 246);
+}
